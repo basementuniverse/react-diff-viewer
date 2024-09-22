@@ -1,3 +1,6 @@
+> Forked from https://praneshravi.in/react-diff-viewer/
+
+> This is an exact copy of `react-diff-viewer` except with react peer dependency updated to 18.2
 
 <p align="center">
   <img src='https://i.ibb.co/DKrGhVQ/Frame-1-1.png' width="100%" alt='React Diff Viewer' />
